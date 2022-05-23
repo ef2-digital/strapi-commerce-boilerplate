@@ -1,0 +1,19 @@
+{
+  "name": "strapi-commerce-boilerplate",
+  "version": "1.0.0",
+  "description": "Strapi B2b boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ef2-digital/strapi-commerce-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ef2-digital/strapi-commerce-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ef2-digital/strapi-commerce-boilerplate#readme"
+}
